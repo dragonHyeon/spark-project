@@ -1,5 +1,8 @@
 # spark-project
 
+### Yonsei University Graduate School Fall 2019
+#### Winner of CSI6101-01 Data Warehouse Systems Term Project
+
 ## Implementation details
 Please follow the file structures.
 The following project provides 2D, 3D, 4D data projections.
